@@ -1,4 +1,5 @@
 # Science of Victory
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/jeffmcneill/science-of-victory?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 English translation of Alexander Suvorov's Science of Victory (Наука побеждать, Nauka Pobezhdat)
 
